@@ -16,6 +16,7 @@
 1. [plimbări](https://github.com/niculaionut/poezii#plimbări)
 1. [Golgota](https://github.com/niculaionut/poezii#Golgota)
 1. [în ape de soare](https://github.com/niculaionut/poezii#în-ape-de-soare)
+1. [shawshank](https://github.com/niculaionut/poezii#shawshank)
 
 ## pe unde ești
 
@@ -542,4 +543,24 @@ la răsărit din valuri îmi răsare
 o dragoste și mai mare.
 
 30 noiembrie 2022
+```
+
+## shawshank
+
+```
+suflete prinse sub gratii de plumb,
+greșeli de-o clipă pentru o viață ajung...
+
+noaptea e plină de regret,
+ziua de dorință de uitare,
+mereu către văzduh se duc încet
+suftele obosite ce nu primesc iertare.
+
+cu pasul scurt și sacadat
+osândiții umblă
+prin colțul lor
+de iad degradat.
+
+somnambuli, atinși doar de ploi,
+erodare și erori...
 ```
