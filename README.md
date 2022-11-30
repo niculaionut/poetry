@@ -75,6 +75,7 @@ cum mugurii-nfloresc
 din rădăcini către-un zenit -
 jertfit
 
+și te iubesc
 la fel cum creionul își lasă urma pe hârtie,
 cum pașii lăcrimeaza pe glie...
 
@@ -225,7 +226,7 @@ mă ninge ieri,
 mă ninge azi,
 mă ninge cu cai nomazi.
 
-cu brazi și îngeri
+cu brazi și îngéri
 mă ninge ninsoarea de ieri.
 pe-un tei și pe-un talaz,
 mă ninge ninsoarea de azi.
