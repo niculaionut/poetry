@@ -554,7 +554,7 @@ greșeli de-o clipă pentru o viață ajung...
 noaptea e plină de regret,
 ziua de dorință de uitare,
 mereu către văzduh se duc încet
-suftele obosite ce nu primesc iertare.
+suflete obosite ce nu primesc iertare.
 
 cu pasul scurt și sacadat
 osândiții umblă
