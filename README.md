@@ -1,7 +1,7 @@
 ## cuprins
 
-* [pe unde ești](https://github.com/niculaionut/poezii/edit/main/README.md#pe-unde-e%C8%99ti)
-* [deșertul](https://github.com/niculaionut/poezii/edit/main/README.md#de%C8%99ertul)
+* [pe unde ești](https://github.com/niculaionut/poezii#pe-unde-e%C8%99ti)
+* [deșertul](https://github.com/niculaionut/poezii#de%C8%99ertul)
 
 
 ## pe unde ești
