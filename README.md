@@ -15,6 +15,7 @@
 1. [noaptea](https://github.com/niculaionut/poezii#noaptea)
 1. [plimbări](https://github.com/niculaionut/poezii#plimbări)
 1. [Golgota](https://github.com/niculaionut/poezii#Golgota)
+1. [în ape de soare](https://github.com/niculaionut/poezii#în-ape-de-soare)
 
 ## pe unde ești
 
@@ -513,6 +514,31 @@ din stejar masiv, ceresc...
 porumbeii plăpânzi sfâșie păcatele cu dinții.
 moare - ca să înviem,
 deșertul se pierde într-un recviem.
+
+30 noiembrie 2022
+```
+
+## în ape de soare
+
+```
+suflu aspru peste vorbe,
+să spulber neadevărurile,
+ucid cuvintele
+ca la final să fie pe hârtie
+doar cele ce după trei zile
+învie.
+
+un fragment de supernovă
+întemnițez în această slovă,
+o șlefuiesc, ți-o dăruiesc
+în pagini albe
+și cuvinte negre -
+te iubesc!
+
+arunc versurile în ape de soare,
+la apus le pasc caii de mare.
+la răsărit din valuri îmi răsare
+o dragoste și mai mare.
 
 30 noiembrie 2022
 ```
