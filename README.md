@@ -14,9 +14,9 @@
 1. [negri ochi](https://github.com/niculaionut/poezii#negri-ochi)
 1. [noaptea](https://github.com/niculaionut/poezii#noaptea)
 1. [plimbări](https://github.com/niculaionut/poezii#plimbări)
-1. [Golgota](https://github.com/niculaionut/poezii#Golgota)
+1. [Golgota](https://github.com/niculaionut/poezii#golgota)
 1. [în ape de soare](https://github.com/niculaionut/poezii#în-ape-de-soare)
-1. [shawshank](https://github.com/niculaionut/poezii#shawshank)
+1. [Shawshank](https://github.com/niculaionut/poezii#shawshank)
 
 ## pe unde ești
 
@@ -545,7 +545,7 @@ o dragoste și mai mare.
 30 noiembrie 2022
 ```
 
-## shawshank
+## Shawshank
 
 ```
 suflete prinse sub gratii de plumb,
