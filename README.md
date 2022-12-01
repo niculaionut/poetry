@@ -565,7 +565,7 @@ somnambuli, atinși doar de ploi,
 erodare și erori,
 fără mame, fără tați,
 fără muguri, fără frați,
-străini și înstrainați.
+străini și înstrăinați.
 
 1 decembrie 2022
 ```
