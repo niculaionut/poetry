@@ -562,7 +562,10 @@ prin colțul lor
 de iad degradat.
 
 somnambuli, atinși doar de ploi,
-erodare și erori...
+erodare și erori,
+fără mame, fără tați,
+fără muguri, fără frați,
+străini și înstrainați.
 
-30 noiembrie 2022
+1 decembrie 2022
 ```
