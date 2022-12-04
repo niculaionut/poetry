@@ -17,6 +17,7 @@
 1. [Golgota](https://github.com/niculaionut/poezii#golgota)
 1. [în ape de soare](https://github.com/niculaionut/poezii#în-ape-de-soare)
 1. [Shawshank](https://github.com/niculaionut/poezii#shawshank)
+1. [Vietnam](https://github.com/niculaionut/poezii#vietnam)
 
 ## pe unde ești
 
@@ -568,4 +569,20 @@ fără muguri, fără frați,
 străini și înstrăinați.
 
 1 decembrie 2022
+```
+
+## Vietnam
+
+```
+în văile de jad
+dragonii de napalm
+peste oameni cad,
+
+miroase a piele și fum,
+miroase a moarte și scrum,
+miroase a gloanțe de mâine,
+miroase a suflete prefăcute
+într-un pumn de tămâie.
+
+4 decembrie 2022
 ```
