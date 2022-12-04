@@ -580,9 +580,9 @@ peste oameni cad,
 
 miroase a piele și fum,
 miroase a moarte și scrum,
-miroase a gloanțe de mâine,
-miroase a suflete prefăcute
-într-un pumn de tămâie.
+miroase a flori carbonizate,
+miroase a suflete
+cu foc botezate
 
 4 decembrie 2022
 ```
