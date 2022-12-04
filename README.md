@@ -582,7 +582,12 @@ miroase a piele și fum,
 miroase a moarte și scrum,
 miroase a flori carbonizate,
 miroase a suflete
-cu foc botezate
+cu foc botezate.
+
+durere și urlet,
+foamete și tunet -
+peste văile de jad
+cad dragonii de napalm...
 
 4 decembrie 2022
 ```
