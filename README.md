@@ -609,6 +609,8 @@ aș sta aici mereu - mereu,
 cu sufletul meu - sufletul meu,
 timpul să rămână - să rămână,
 în mâna mea - la îndemână,
+să îl cred și să mă creadă,
+să îl văd și să mă vadă,
 să îl ascult și să-i vorbesc,
 să îl retez și să îl cresc,
 și când mi-e dor
