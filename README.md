@@ -441,7 +441,7 @@ vorbe de-alint.
 
 petale de zori,
 petale de-amurg,
-peste zâmbetul tau curg.
+peste zâmbetul tău curg.
 
 
 29 noiembrie 2022
