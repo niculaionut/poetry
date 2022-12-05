@@ -19,6 +19,7 @@
 1. [Shawshank](https://github.com/niculaionut/poezii#shawshank)
 1. [Vietnam](https://github.com/niculaionut/poezii#vietnam)
 1. [Do major](https://github.com/niculaionut/poezii#do-major)
+1. [ce seară frumoasă...](https://github.com/niculaionut/poezii#ce-seară-frumoasă)
 
 ## pe unde ești
 
@@ -615,6 +616,26 @@ să îl ascult și să-i vorbesc,
 să îl retez și să îl cresc,
 și când mi-e dor și nu mă pot abține -
 să îmi aducă aminte de tine.
+
+5 decembrie 2022
+```
+
+## ce seară frumoasă...
+
+```
+ce seară frumoasă e afară!
+se văd constelațiile cum coboară
+din privirea ta rară - uneori bizară...
+
+pe cer se sparg sferele sticloase,
+deasupra ierbii se-aud șoaptele joase,
+se mișcă pietrele apoase...
+
+ce seară frumoasă e aceasta -
+din care te ivești...
+ce lună ești...!
+ce soare ești...!
+ce vis mai ești?
 
 5 decembrie 2022
 ```
