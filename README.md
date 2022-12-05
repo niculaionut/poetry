@@ -18,6 +18,7 @@
 1. [în ape de soare](https://github.com/niculaionut/poezii#în-ape-de-soare)
 1. [Shawshank](https://github.com/niculaionut/poezii#shawshank)
 1. [Vietnam](https://github.com/niculaionut/poezii#vietnam)
+1. [Do major](https://github.com/niculaionut/poezii#do-major)
 
 ## pe unde ești
 
@@ -590,4 +591,29 @@ peste văile de jad
 cad dragonii de napalm...
 
 4 decembrie 2022
+```
+
+## Do major
+
+```
+clipele în pomi se-ascund,
+beau seva din străfund,
+niște fluturi par când
+curenții le spulberă senin,
+fără declin,
+peste noi, peste voi...
+uite -
+se-ascund în pomi - înapoi...
+
+aș sta aici mereu - mereu,
+cu sufletul meu - sufletul meu,
+timpul să rămână - să rămână,
+în mâna mea - la îndemână,
+să îl ascult și să-i vorbesc,
+să îl retez și să îl cresc,
+și când mi-e dor
+și nu mă pot abține -
+să-mi aducă aminte de tine.
+
+5 decembrie 2022
 ```
