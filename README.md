@@ -613,8 +613,7 @@ să îl cred și să mă creadă,
 să îl văd și să mă vadă,
 să îl ascult și să-i vorbesc,
 să îl retez și să îl cresc,
-și când mi-e dor
-și nu mă pot abține -
+și când mi-e dor și nu mă pot abține -
 să îmi aducă aminte de tine.
 
 5 decembrie 2022
