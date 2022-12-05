@@ -613,7 +613,7 @@ să îl ascult și să-i vorbesc,
 să îl retez și să îl cresc,
 și când mi-e dor
 și nu mă pot abține -
-să-mi aducă aminte de tine.
+să îmi aducă aminte de tine.
 
 5 decembrie 2022
 ```
