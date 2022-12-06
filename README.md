@@ -14,8 +14,6 @@
 1. [negri ochi](https://github.com/niculaionut/poezii#negri-ochi)
 1. [noaptea](https://github.com/niculaionut/poezii#noaptea)
 1. [plimbări](https://github.com/niculaionut/poezii#plimbări)
-1. [Golgota](https://github.com/niculaionut/poezii#golgota)
-1. [în ape de soare](https://github.com/niculaionut/poezii#în-ape-de-soare)
 1. [Shawshank](https://github.com/niculaionut/poezii#shawshank)
 1. [Vietnam](https://github.com/niculaionut/poezii#vietnam)
 1. [Do major](https://github.com/niculaionut/poezii#do-major)
@@ -501,49 +499,6 @@ eram doar bucuros
 că ne plimbăm pe alei somnoroase,
 sub case ce cască, sfioase,
 printre felinare ploioase.
-
-30 noiembrie 2022
-```
-
-## Golgota
-
-```
-pe țărâna unde și-a plâns sânge
-e-o urmă de mână ce iadul înfrânge.
-șerpii sunt striviți,
-se zvârcolesc,
-sub crucea croită
-din stejar masiv, ceresc...
-
-în coroana-i de spini atârnă sfinții,
-porumbeii plăpânzi sfâșie păcatele cu dinții.
-moare - ca să înviem,
-deșertul se pierde într-un recviem.
-
-30 noiembrie 2022
-```
-
-## în ape de soare
-
-```
-suflu aspru peste vorbe,
-să spulber neadevărurile,
-ucid cuvintele
-ca la final să fie pe hârtie
-doar cele ce după trei zile
-învie.
-
-un fragment de supernovă
-întemnițez în această slovă,
-o șlefuiesc, ți-o dăruiesc
-în pagini albe
-și cuvinte negre -
-te iubesc!
-
-arunc versurile în ape de soare,
-la apus le pasc caii de mare.
-la răsărit din valuri îmi răsare
-o dragoste și mai mare.
 
 30 noiembrie 2022
 ```
