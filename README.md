@@ -258,7 +258,6 @@ prezent neștiut,
 prezent tăios,
 prezent sugrumat de flori de bronz.
 
-
 26 noiembrie 2022
 ```
 
@@ -291,7 +290,6 @@ m-oi ridica cândva din gropi,
 m-oi îmbrăca cu flori de plopi,
 și-un anotimp fără nume
 ți-oi dărui pe-această lume.
-
 
 27 noiembrie 2022
 ```
@@ -442,7 +440,6 @@ petale de zori,
 petale de-amurg,
 peste zâmbetul tău curg.
 
-
 29 noiembrie 2022
 ```
 
@@ -478,7 +475,6 @@ copii se nasc nenăscuți...
 în noaptea pe care aștrii o inundă,
 iubirea mea crește, se scufundă...
 o chem - și sper să-mi răspundă.
-
 
 30 noiembrie 2022
 ```
