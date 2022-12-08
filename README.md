@@ -590,3 +590,39 @@ ce vis mai ești?
 
 5 decembrie 2022
 ```
+
+## te-am văzut
+
+```
+te-am văzut pe-abrupte mări,
+inundând țărmuri și țări,
+
+te-am văzut pe lunci pustii,
+pasul tău ivind flori - mii,
+te-am văzut prin flori de prun,
+vindecând livezi de-acum,
+te-am văzut prin flori de tei,
+invocând păduri de ieri,
+te-am văzut în flori de măr,
+lângă albine ce rătăcesc rătăcitor -
+te-am văzut în stupii lor,
+la marginea norilor.
+
+te-am văzut într-un amurg roșu-aprins,
+printre sălciile cu părul desprins,
+într-un răsărit arzător,
+într-un trecut din viitor.
+
+te-am văzut așa cum ești -
+dragă doină care-mi ești -
+vânt lin venind cu vești
+și zâmbete copilărești.
+
+............................................................
+
+ochii mei - pe rai o pată -
+vor să te mai vad-o dată,
+și-nc-o dată, și-nc-o dată...
+
+8 decembrie 2022
+```
