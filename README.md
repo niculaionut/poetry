@@ -18,6 +18,7 @@
 1. [Vietnam](https://github.com/niculaionut/poezii#vietnam)
 1. [Do major](https://github.com/niculaionut/poezii#do-major)
 1. [ce seară frumoasă...](https://github.com/niculaionut/poezii#ce-seară-frumoasă)
+1. [te-am văzut](https://github.com/niculaionut/poezii#te-am-văzut)
 
 ## pe unde ești
 
