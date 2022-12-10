@@ -19,6 +19,7 @@
 1. [Do major](https://github.com/niculaionut/versuri#do-major)
 1. [ce seară frumoasă...](https://github.com/niculaionut/versuri#ce-seară-frumoasă)
 1. [te-am văzut](https://github.com/niculaionut/versuri#te-am-văzut)
+1. [norii mei](https://github.com/niculaionut/versuri#norii-mei)
 
 ## pe unde ești
 
@@ -626,4 +627,29 @@ vor să te mai vad-o dată,
 și-nc-o dată, și-nc-o dată...
 
 8 decembrie 2022
+```
+
+## norii mei
+
+```
+norii mei, ca niciodată,
+zboară pe zarea înaltă -
+între note încă se aud
+silabele tale de un verde crud.
+
+azi coboară, mâine urcă,
+norii mei mi se bifurcă -
+stânga - către mine, dreapta - către tine,
+din spate timpul revine -
+m-am întrecut cu el și l-am înfrânt
+de pe nori mi-am luat avânt.
+
+norii mei se risipesc,
+de raze de soare se lipesc,
+cad pe glie și răsar
+mărăcinii într-un val -
+adună-i și fă-ți un voal
+roz-purpuriu, mercurial.
+
+11 decembrie 2022
 ```
