@@ -21,6 +21,7 @@
 1. [te-am văzut](https://github.com/niculaionut/versuri#te-am-văzut)
 1. [cirsium arvense](https://github.com/niculaionut/versuri#cirsium-arvense)
 1. [ninge pe oceane](https://github.com/niculaionut/versuri#ninge-pe-oceane)
+1. [privirea](https://github.com/niculaionut/versuri#privirea)
 
 ## pe unde ești
 
@@ -669,6 +670,25 @@ apa e-n epifanie...
 
 sub zăpada pe care pășesc desculț,
 în sfârșit - grâul acvatic a prins colț!
+
+11 decembrie 2022
+```
+
+## privirea
+
+```
+privirea mea pe sus era,
+căutând-o doar pe ea.
+mă uitam adânc prin fum -
+poate-a plecat pe alt drum?
+
+tot căutând, mintea-mi spera...
+pe soarele ascuțit, ea era!
+
+apoi m-am înțepat puțin în privirea ta,
+tot sângele mi s-a scurs făr-a răbda -
+așa Oltul s-a-nroșit,
+Dunărea s-a înverzit...
 
 11 decembrie 2022
 ```
