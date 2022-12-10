@@ -19,7 +19,7 @@
 1. [Do major](https://github.com/niculaionut/versuri#do-major)
 1. [ce seară frumoasă...](https://github.com/niculaionut/versuri#ce-seară-frumoasă)
 1. [te-am văzut](https://github.com/niculaionut/versuri#te-am-văzut)
-1. [norii mei](https://github.com/niculaionut/versuri#norii-mei)
+1. [cirsium arvense](https://github.com/niculaionut/versuri#cirsium-arvense)
 
 ## pe unde ești
 
@@ -629,7 +629,7 @@ vor să te mai vad-o dată,
 8 decembrie 2022
 ```
 
-## norii mei
+## cirsium arvense
 
 ```
 norii mei, ca niciodată,
