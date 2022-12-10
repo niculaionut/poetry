@@ -20,6 +20,7 @@
 1. [ce seară frumoasă...](https://github.com/niculaionut/versuri#ce-seară-frumoasă)
 1. [te-am văzut](https://github.com/niculaionut/versuri#te-am-văzut)
 1. [cirsium arvense](https://github.com/niculaionut/versuri#cirsium-arvense)
+1. [ninge pe oceane](https://github.com/niculaionut/versuri#ninge-pe-oceane)
 
 ## pe unde ești
 
@@ -650,6 +651,24 @@ cad pe glie și răsar
 mărăcinii într-un val -
 adună-i și fă-ți un voal
 roz-purpuriu, mercurial.
+
+11 decembrie 2022
+```
+
+## ninge pe oceane
+
+```
+ninge pe oceane, dragă,
+ninge pe corali,
+ninge pe zori arteriali!
+
+schiază balenele printre nămeți,
+delfinii împodobesc brazii răzleți,
+pe câmpiile marine
+apa e-n epifanie...
+
+sub zăpada pe care pășesc desculț,
+în sfârșit - grâul acvatic a prins colț!
 
 11 decembrie 2022
 ```
