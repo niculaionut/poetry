@@ -727,7 +727,7 @@ December 11, 2022
 the setting sun from winters spun
 shadows my heart, forgives no one -
 the rising sun with summers knitted
-your shining eyes has brightly fitted.
+your shining eyes too brightly fitted.
 
 the sun that sets never forgets -
 king on a throne of regrets -
