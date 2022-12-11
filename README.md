@@ -695,7 +695,7 @@ eternities the moments hawk.
 
 once we may do, once we may try,
 upon the autumn's scythe we lie -
-among all things that changes hunt
+among all things that changes haunt
 your beauty shall remain constant.
 
 December 11, 2022
