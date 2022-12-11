@@ -790,6 +790,8 @@ though greed and wrath sometimes prevail,
 their efforts are to no avail.
 though fiery wars engulf the meadows,
 one can still hear the finch's echoes.
+though words are weak, impermanent,
+my love touches the firnament.
 though blossoms falter under the wind's weight,
 your grace shall be forever pure and great.
 
