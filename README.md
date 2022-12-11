@@ -26,6 +26,7 @@
 1. [look](https://github.com/niculaionut/poetry#look)
 1. [the setting sun, the rising sun](https://github.com/niculaionut/poetry#the-setting-sun-the-rising-sun)
 1. [constant](https://github.com/niculaionut/poetry#constant)
+1. [through years and years](https://github.com/niculaionut/poetry#through-years-and-years)
 
 ## pe unde ești
 
@@ -697,6 +698,27 @@ once we may do, once we may try,
 upon the autumn's scythe we lie -
 among all things that changes haunt
 your beauty shall remain constant.
+
+December 11, 2022
+```
+
+## through years and years
+
+```
+through years and years the petals fade,
+my words grow even more afraid -
+I wish I stayed beneath the timeless shade,
+away from death's untrembling blade.
+
+through years and years - come centuries,
+behind - forgotten reveries,
+around me - all oblivion,
+my heart - made of obsidian.
+
+but if I'll see you once - once more,
+my soul will renew its core,
+your hands will keep me soaring true and high
+and lay my body above the burning sky.
 
 December 11, 2022
 ```
