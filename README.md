@@ -14,8 +14,6 @@
 1. [negri ochi](https://github.com/niculaionut/versuri#negri-ochi)
 1. [noaptea](https://github.com/niculaionut/versuri#noaptea)
 1. [plimbări](https://github.com/niculaionut/versuri#plimbări)
-1. [Shawshank](https://github.com/niculaionut/versuri#shawshank)
-1. [Vietnam](https://github.com/niculaionut/versuri#vietnam)
 1. [Do major](https://github.com/niculaionut/versuri#do-major)
 1. [ce seară frumoasă...](https://github.com/niculaionut/versuri#ce-seară-frumoasă)
 1. [te-am văzut](https://github.com/niculaionut/versuri#te-am-văzut)
@@ -502,52 +500,6 @@ sub case ce cască, sfioase,
 printre felinare ploioase.
 
 30 noiembrie 2022
-```
-
-## Shawshank
-
-```
-suflete prinse sub gratii de plumb,
-greșeli de-o clipă pentru o viață ajung...
-
-noaptea e plină de regret,
-ziua de dorință de uitare,
-mereu către văzduh se duc încet
-suflete obosite ce nu primesc iertare.
-
-cu pasul scurt și sacadat
-osândiții umblă
-prin colțul lor
-de iad degradat.
-
-somnambuli, atinși doar de ploi,
-erodare și erori,
-fără mame, fără tați,
-fără muguri, fără frați,
-străini și înstrăinați.
-
-1 decembrie 2022
-```
-
-## Vietnam
-
-```
-în văile de jad
-dragonii de napalm
-peste oameni cad,
-
-miroase a piele și fum,
-miroase a moarte și scrum,
-miroase a flori carbonizate,
-miroase a suflete
-cu foc botezate.
-
-durere și urlet,
-foamete și tunet -
-peste văile de jad
-cad dragonii de napalm...
-
-4 decembrie 2022
 ```
 
 ## Do major
