@@ -718,7 +718,7 @@ my heart - made of obsidian.
 but if I'll see you once - once more,
 my soul will renew its core,
 your hands will keep me soaring true and high
-and lay my body above the burning sky.
+and lay my body above the blazing sky.
 
 December 11, 2022
 ```
