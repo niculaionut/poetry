@@ -654,7 +654,7 @@ Dunărea s-a înverzit...
 
 ```
 look how the stars and the blue sun
-their meet in heaven have begun
+their meet in heaven have begun,
 look how the dawn raises the grass -
 the hills are clear and made of glass -
 look how the dusk, full of dismay,
