@@ -29,6 +29,7 @@
 1. [constant](https://github.com/niculaionut/poetry#constant)
 1. [through years and years](https://github.com/niculaionut/poetry#through-years-and-years)
 1. [though blossoms falter](https://github.com/niculaionut/poetry#though-blossoms-falter)
+1. [a nameless grave, a timeless stone](https://github.com/niculaionut/poetry#a-nameless-grave-a-timeless-stone)
 
 ## pe unde ești
 
@@ -791,6 +792,22 @@ though fiery wars engulf the meadows,
 one can still hear the finch's echoes.
 though blossoms falter under the wind's weight,
 your grace shall be forever pure and great.
+
+December 11, 2022
+```
+
+## a nameless grave, a timeless stone
+
+```
+a timeless grave, a nameless stone,
+sits in my memory alone.
+the hours try to devour
+the lonely crypt that knew no flower.
+
+the wind subsides, the rains still pour,
+trying to drift ashore
+towards a nameless grave, a timeless stone,
+with thistles and thorns overgrown.
 
 December 11, 2022
 ```
