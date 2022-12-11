@@ -716,7 +716,7 @@ the hills are clear and made of glass -
 look how the dusk, full of dismay,
 covers the bright fields of May,
 look how my love, then withered, thin,
-has once more bursted from within.
+has once more risen from within.
 
 December 11, 2022
 ```
