@@ -21,6 +21,7 @@
 1. [cirsium arvense](https://github.com/niculaionut/poetry#cirsium-arvense)
 1. [ninge pe oceane](https://github.com/niculaionut/poetry#ninge-pe-oceane)
 1. [privirea](https://github.com/niculaionut/poetry#privirea)
+1. [though blossoms falter](https://github.com/niculaionut/poetry#though-blossoms-falter)
 
 ## contents
 
@@ -773,6 +774,23 @@ but if I'll see you once - once more,
 my soul will renew its core,
 your hands will keep me soaring true and high
 and lay my body above the blazing sky.
+
+December 11, 2022
+```
+
+## though blossoms falter
+
+```
+though sunny days are slain by the night's liege,
+the break of dawn - the darkness will besiege.
+though wrinkled eyes may close and die,
+their irises all chains will pry.
+though greed and wrath sometimes prevail,
+their efforts are to no avail.
+though fiery wars engulf the meadows,
+one can still hear the finch's echoes.
+though blossoms falter under the wind's weight,
+your grace shall be forever pure and great.
 
 December 11, 2022
 ```
