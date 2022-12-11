@@ -21,7 +21,6 @@
 1. [cirsium arvense](https://github.com/niculaionut/poetry#cirsium-arvense)
 1. [ninge pe oceane](https://github.com/niculaionut/poetry#ninge-pe-oceane)
 1. [privirea](https://github.com/niculaionut/poetry#privirea)
-1. [though blossoms falter](https://github.com/niculaionut/poetry#though-blossoms-falter)
 
 ## contents
 
@@ -29,6 +28,7 @@
 1. [the setting sun, the rising sun](https://github.com/niculaionut/poetry#the-setting-sun-the-rising-sun)
 1. [constant](https://github.com/niculaionut/poetry#constant)
 1. [through years and years](https://github.com/niculaionut/poetry#through-years-and-years)
+1. [though blossoms falter](https://github.com/niculaionut/poetry#though-blossoms-falter)
 
 ## pe unde ești
 
