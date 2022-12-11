@@ -17,6 +17,7 @@
 1. [Do major](https://github.com/niculaionut/poetry#do-major)
 1. [ce seară frumoasă...](https://github.com/niculaionut/poetry#ce-seară-frumoasă)
 1. [te-am văzut](https://github.com/niculaionut/poetry#te-am-văzut)
+1. [am iubit și eu o frunză...](https://github.com/niculaionut/poetry#am-iubit-și-eu-o-frunză)
 1. [cirsium arvense](https://github.com/niculaionut/poetry#cirsium-arvense)
 1. [ninge pe oceane](https://github.com/niculaionut/poetry#ninge-pe-oceane)
 1. [privirea](https://github.com/niculaionut/poetry#privirea)
@@ -588,6 +589,59 @@ vor să te mai vad-o dată,
 și-nc-o dată, și-nc-o dată...
 
 8 decembrie 2022
+```
+
+## am iubit și eu o frunză...
+
+```
+am iubit și eu o frunză
+cu ochi roșii ca de spuză,
+am iubit pietre lucioase,
+ochi de diamant și oase,
+
+am iubit iubirea caldă
+ce se poate ține-n palmă -
+ușoară ca o pană -
+simplă, muzicală,
+
+am iubit fulgerător
+norul negru tunător
+ce ne plouă câteodată
+când cerul vrea să se zbată.
+
+am iubit să uit de tine de cu seară,
+să te revăd din nou pentru întâia oară
+în diminețile târzii
+cu brize reci și străvezii.
+
+am iubit s-aud cuvinte,
+vorbe, șiruri, legăminte,
+și-am iubit tăceri mocnite
+cu vorbe neauzite.
+
+am iubit pomii cei calmi,
+uitați prin păduri ca niște psalmi
+din vremuri învechite -
+momente negăsite.
+
+am iubit vișinele,
+am iubit măceșele,
+adieri de-aprilie,
+surâs de magnolie,
+
+am iubit anii ce curg,
+o fată c-un nume lung -
+am iubit să te zăresc,
+și-am iubit - să te iubesc!
+
+............................................................
+
+un buchet de bucurii vreau să-ți adun,
+pentr-un decembrie mai călduros, mai bun -
+să cadă numaidecât fulgii pe care-i înțeleg,
+căci negreșit, dragă, voi fi acolo să-i culeg.
+
+10 decembrie 2022
 ```
 
 ## cirsium arvense
