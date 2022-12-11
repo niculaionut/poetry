@@ -25,6 +25,7 @@
 
 1. [look](https://github.com/niculaionut/versuri#look)
 1. [the setting sun, the rising sun](https://github.com/niculaionut/versuri#the-setting-sun-the-rising-sun)
+1. [constant](https://github.com/niculaionut/versuri#constant)
 
 ## pe unde ești
 
@@ -680,6 +681,22 @@ behind the angels' silhouettes.
 
 setting or rising, no matter the time -
 the sun is happy when you smile.
+
+December 11, 2022
+```
+
+## constant
+
+```
+the children laugh, the planets cry,
+the sculpture lives, the stone may die,
+the wings can fly, the legs can walk,
+eternities the moments hawk.
+
+once we may do, once we may try,
+upon the autumn's scythe we lie -
+among all things that changes hunt
+your beauty shall remain constant.
 
 December 11, 2022
 ```
