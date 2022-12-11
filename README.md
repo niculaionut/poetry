@@ -21,6 +21,7 @@
 1. [ninge pe oceane](https://github.com/niculaionut/versuri#ninge-pe-oceane)
 1. [privirea](https://github.com/niculaionut/versuri#privirea)
 1. [look](https://github.com/niculaionut/versuri#look)
+1. [the setting sun, the rising sun](https://github.com/niculaionut/versuri#the-setting-sun-the-rising-sun)
 
 ## pe unde ești
 
@@ -657,6 +658,25 @@ look how the dusk, full of dismay,
 covers the bright fields of May,
 look how my love, then withered, thin,
 has once more bursted from within.
+
+December 11, 2022
+```
+
+## the setting sun, the rising sun
+
+```
+the setting sun from winters spun
+shadows my heart, forgives no one -
+the rising sun from summers knitted
+your shining eyes has brightly fitted.
+
+the sun that sets never forgets -
+king on a throne of regrets -
+the sun that rises always rests
+behind the angels' silhouettes.
+
+setting or rising, no matter the time -
+the sun is happy when you smile.
 
 December 11, 2022
 ```
