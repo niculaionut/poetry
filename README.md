@@ -867,7 +867,7 @@ December 12, 2022
 in springtime mirrors dance and fly,
 to glowing smiles they say goodbye,
 to distant planets they migrate,
-in outer space they oscilate.
+in outer space they oscillate.
 
 but if they leave - I will forget my face,
 I won't see what time chose to displace...
