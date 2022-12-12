@@ -32,6 +32,7 @@
 1. [a nameless grave, a timeless stone](https://github.com/niculaionut/poetry#a-nameless-grave-a-timeless-stone)
 1. [far away](https://github.com/niculaionut/poetry#far-away)
 1. [fall's first breath](https://github.com/niculaionut/poetry#falls-first-breath)
+1. [the mirrors](https://github.com/niculaionut/poetry#the-mirrors)
 
 ## pe unde ești
 
@@ -858,4 +859,32 @@ in fleeting silence and rumble that's long-lived
 the vineyards, in harvest, slowly sing - relieved...
 
 December 12, 2022
+```
+
+## the mirrors
+
+```
+in springtime mirrors dance and fly,
+to glowing smiles they say goodbye,
+to distant planets they migrate,
+in outer space they oscilate.
+
+but if they leave - I will forget my face,
+I won't see what time chose to displace...
+maybe I'll follow the mirrors, too,
+their beaming trail - fast I'll pursue.
+
+I'll gather their blinding plume
+when the apricots just bloom,
+I'll collect their fragile feathers
+like some sweet and unknown treasures...
+and when the cherry blossoms float above
+I will sew them in my love.
+
+............................................................
+
+the distant planets faintly glare -
+someday, perhaps, I'll see you there!
+
+December 13, 2022
 ```
