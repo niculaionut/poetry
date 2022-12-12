@@ -31,6 +31,7 @@
 1. [though blossoms falter](https://github.com/niculaionut/poetry#though-blossoms-falter)
 1. [a nameless grave, a timeless stone](https://github.com/niculaionut/poetry#a-nameless-grave-a-timeless-stone)
 1. [far away](https://github.com/niculaionut/poetry#far-away)
+1. [fall's first breath](https://github.com/niculaionut/poetry#fall-s-first-breath)
 
 ## pe unde ești
 
@@ -818,15 +819,15 @@ December 11, 2022
 ## far away
 
 ```
-as the burning butterflies float far away,
+as burning butterflies float far away,
 my thoughts of you are led astray
 when waters the oceans betray.
 
-as the burning butterflies die far away,
+as burning butterflies die far away,
 I am still yet to find your way -
 I have been roaming the decay.
 
-as the dying butterflies burn far away -
+as dying butterflies burn far away -
 I'm only a handful of clay
 thinking of you in days too grey.
 
@@ -836,6 +837,25 @@ ever so calm and so sincere,
 ever so dear and without fear,
 ever so bright and so sublime -
 like the sky in summertime.
+
+December 12, 2022
+```
+
+## fall's first breath
+
+```
+by rusty leaves and foggy days
+fall's first breath is set ablaze.
+with rainy skies and chilly winds
+fall its former realm rebuilds.
+
+chimneys smoke again, after a year,
+reaching the heavens' frontier,
+the peaceful thunders come without delay,
+the tears - on starling wings, away.
+
+in fleeting silence and rumble that's long-lived
+the vineyards, in harvest, slowly sing - relieved...
 
 December 12, 2022
 ```
