@@ -871,17 +871,15 @@ in outer space they oscilate.
 
 but if they leave - I will forget my face,
 I won't see what time chose to displace...
+
 maybe I'll follow the mirrors, too,
 their beaming trail - fast I'll pursue.
-
 I'll gather their blinding plume
 when the apricots just bloom,
 I'll collect their fragile feathers
-like some sweet and unknown treasures...
+like some sweet and unknown treasures,
 and when the cherry blossoms float above
 I will sew them in my love.
-
-............................................................
 
 the distant planets faintly glare -
 someday, perhaps, I'll see you there!
