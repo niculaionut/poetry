@@ -850,7 +850,7 @@ with rainy skies and chilly winds
 fall its former realm rebuilds.
 
 chimneys smoke again, after a year,
-reaching the heavens' frontier,
+reaching the heavens' blue frontier,
 the peaceful thunders come without delay,
 the tears - on starling wings, away.
 
