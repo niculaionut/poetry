@@ -30,6 +30,7 @@
 1. [through years and years](https://github.com/niculaionut/poetry#through-years-and-years)
 1. [though blossoms falter](https://github.com/niculaionut/poetry#though-blossoms-falter)
 1. [a nameless grave, a timeless stone](https://github.com/niculaionut/poetry#a-nameless-grave-a-timeless-stone)
+1. [far away](https://github.com/niculaionut/poetry#far-away)
 
 ## pe unde ești
 
@@ -812,4 +813,29 @@ towards a nameless grave, a timeless stone,
 with thistles and thorns overgrown.
 
 December 11, 2022
+```
+
+## far away
+
+```
+as the burning butterflies float far away,
+my thoughts of you are led astray
+when waters the oceans betray.
+
+as the burning butterflies die far away,
+I am still yet to find your way -
+I have been roaming the decay.
+
+as the dying butterflies burn far away -
+I'm only a handful of clay
+thinking of you in days too grey.
+
+as the hours come to pass,
+I hope to see you, at last,
+ever so calm and so sincere,
+ever so dear and without fear,
+ever so bright and so sublime -
+like the sky in summertime.
+
+December 12, 2022
 ```
