@@ -33,6 +33,7 @@
 1. [far away](https://github.com/niculaionut/poetry#far-away)
 1. [fall's first breath](https://github.com/niculaionut/poetry#falls-first-breath)
 1. [the mirrors](https://github.com/niculaionut/poetry#the-mirrors)
+1. [my darling from beyond the dunes](https://github.com/niculaionut/poetry#my-darling-from-beyond-the-dunes)
 
 ## pe unde ești
 
@@ -883,6 +884,24 @@ I will sew them in my love.
 
 the distant planets faintly glare -
 someday, perhaps, I'll see you there!
+
+December 13, 2022
+```
+
+## my darling from beyond the dunes
+
+```
+my darling from beyond the depth -
+with coral eyes that never set,
+my darling from beyond the dunes -
+with charming words like little fugues,
+my darling from beyond the vast -
+with flaming shadows never cast.
+
+my darling from forgotten pasts -
+hell and heaven still outlasts,
+my darling ever made of gold,
+of infant suns from days of old.
 
 December 13, 2022
 ```
