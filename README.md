@@ -34,6 +34,7 @@
 1. [fall's first breath](https://github.com/niculaionut/poetry#falls-first-breath)
 1. [the mirrors](https://github.com/niculaionut/poetry#the-mirrors)
 1. [my darling from beyond the dunes](https://github.com/niculaionut/poetry#my-darling-from-beyond-the-dunes)
+1. [blood moon](https://github.com/niculaionut/poetry#blood-moon)
 
 ## pe unde ești
 
@@ -904,4 +905,25 @@ my darling ever made of gold,
 of infant suns from days of old.
 
 December 13, 2022
+```
+
+## blood moon
+
+```
+there's a blood moon out tonight -
+whispers whirling out of sight,
+roses blooming with delight,
+winds and shadows are in flight,
+
+swallows ripping through the air,
+slicing the fear and despair,
+condors guarding near the peaks,
+words are swimming in the creeks.
+
+swords are planted in the earth -
+like some sharp seeds of rebirth,
+forests suddenly ignite -
+there's a blood moon out tonight.
+
+December 17, 2022
 ```
