@@ -35,6 +35,7 @@
 1. [the mirrors](https://github.com/niculaionut/poetry#the-mirrors)
 1. [my darling from beyond the dunes](https://github.com/niculaionut/poetry#my-darling-from-beyond-the-dunes)
 1. [blood moon](https://github.com/niculaionut/poetry#blood-moon)
+1. [the damned](https://github.com/niculaionut/poetry#the-damned)
 
 ## pe unde ești
 
@@ -926,4 +927,20 @@ forests suddenly ignite -
 there's a blood moon out tonight.
 
 December 17, 2022
+```
+
+## the damned
+
+```
+a swarm of locusts eat their dreams,
+a creeping rust slowly engulfs
+their souls too brittle at the seams,
+their muddy hands without remorse.
+
+a mountain of corpses at their feet,
+below their large and tarry eyes.
+graveyards of murder and deceit
+beneath their fading grey disguise.
+
+December 19, 2022
 ```
