@@ -664,7 +664,7 @@ azi coboară, mâine urcă,
 norii mei mi se bifurcă -
 stânga - către mine, dreapta - către tine,
 din spate timpul revine -
-m-am întrecut cu el și l-am înfrânt
+m-am întrecut cu el și l-am înfrânt,
 de pe nori mi-am luat avânt.
 
 norii mei se risipesc,
