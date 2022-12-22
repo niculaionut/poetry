@@ -22,6 +22,7 @@
 1. [ninge pe oceane](https://github.com/niculaionut/poetry#ninge-pe-oceane)
 1. [privirea](https://github.com/niculaionut/poetry#privirea)
 1. [plecăm](https://github.com/niculaionut/poetry#plecăm)
+1. [odihnă](https://github.com/niculaionut/poetry#odihnă)
 
 ## contents
 
@@ -729,6 +730,31 @@ spre cum era mai înainte.
 
 plecăm acum - adio vouă,
 pe drum - nimic, nimic, doar plouă.
+
+22 decembrie 2022
+```
+
+## odihnă
+
+```
+sufletul meu se odihnește
+în țara ce nu se zărește.
+gândurile opace și abrupte
+cad din pomi și de pe frunte.
+
+pașii mei au încetat.
+se reazemă de pietre ce tac,
+lângă arbori mari, statornici,
+lângă ochi negri și tainici.
+
+cred că auzul meu s-a-nmormântat
+sub clape de cristal, de diamant,
+sub șoapte mici, sincere,
+sub grâu și sub secere.
+
+sufletul meu se plimbă de mână cu câmpul,
+uscându-se ca o frunză verde de cimbru,
+ca și niște struguri albaștri precum timpul.
 
 22 decembrie 2022
 ```
