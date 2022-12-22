@@ -728,7 +728,7 @@ pleca-vom fără gesturi și cuvinte
 spre cum era mai înainte.
 
 plecăm acum - adio vouă,
-pe drum - nimic, nimic, doar rouă.
+pe drum - nimic, nimic, doar plouă.
 
 22 decembrie 2022
 ```
