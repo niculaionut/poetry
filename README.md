@@ -21,6 +21,7 @@
 1. [cirsium arvense](https://github.com/niculaionut/poetry#cirsium-arvense)
 1. [ninge pe oceane](https://github.com/niculaionut/poetry#ninge-pe-oceane)
 1. [privirea](https://github.com/niculaionut/poetry#privirea)
+1. [plecăm](https://github.com/niculaionut/poetry#plecăm)
 
 ## contents
 
@@ -711,6 +712,25 @@ așa Oltul s-a-nroșit,
 Dunărea s-a înverzit...
 
 11 decembrie 2022
+```
+
+## plecăm
+
+```
+pleca-vom pe drumul pustiu
+sub mantia neagră a nopții.
+când din munți coboară morții
+pleca-vom pe-un drum ce nu-l știu.
+
+pleca-vom stingheri spre nicăieri,
+necunoscând nimic de ieri,
+pleca-vom fără gesturi și cuvinte
+spre cum era mai înainte.
+
+plecăm acum - adio vouă,
+pe drum - nimic, nimic, doar rouă.
+
+22 decembrie 2022
 ```
 
 ## look
