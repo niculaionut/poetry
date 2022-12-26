@@ -19,8 +19,6 @@
 1. [te-am văzut](https://github.com/niculaionut/poetry#te-am-văzut)
 1. [am iubit și eu o frunză...](https://github.com/niculaionut/poetry#am-iubit-și-eu-o-frunză)
 1. [cirsium arvense](https://github.com/niculaionut/poetry#cirsium-arvense)
-1. [ninge pe oceane](https://github.com/niculaionut/poetry#ninge-pe-oceane)
-1. [privirea](https://github.com/niculaionut/poetry#privirea)
 1. [plecăm](https://github.com/niculaionut/poetry#plecăm)
 1. [odihnă](https://github.com/niculaionut/poetry#odihnă)
 
@@ -674,43 +672,6 @@ cad pe glie și răsar
 mărăcinii într-un val -
 adună-i și fă-ți un voal
 roz-purpuriu, mercurial.
-
-11 decembrie 2022
-```
-
-## ninge pe oceane
-
-```
-ninge pe oceane, dragă,
-ninge pe corali,
-ninge pe zori arteriali!
-
-schiază balenele printre nămeți,
-delfinii împodobesc brazii răzleți,
-pe câmpiile marine
-apa e-n epifanie...
-
-sub zăpada pe care pășesc desculț,
-în sfârșit - grâul acvatic a prins colț!
-
-11 decembrie 2022
-```
-
-## privirea
-
-```
-privirea mea pe sus era,
-căutând-o doar pe ea.
-mă uitam adânc prin fum -
-poate-a plecat pe alt drum?
-
-tot căutând, mintea-mi spera...
-pe soarele ascuțit, ea era!
-
-apoi m-am înțepat puțin în privirea ta,
-tot sângele mi s-a scurs făr-a răbda -
-așa Oltul s-a-nroșit,
-Dunărea s-a înverzit...
 
 11 decembrie 2022
 ```
