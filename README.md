@@ -36,6 +36,7 @@
 1. [the mirrors](https://github.com/niculaionut/poetry#the-mirrors)
 1. [my darling from beyond the dunes](https://github.com/niculaionut/poetry#my-darling-from-beyond-the-dunes)
 1. [blood moon](https://github.com/niculaionut/poetry#blood-moon)
+1. [dreaming](https://github.com/niculaionut/poetry#dreaming)
 
 ## pe unde ești
 
@@ -955,4 +956,25 @@ forests suddenly ignite -
 there's a blood moon out tonight.
 
 December 17, 2022
+```
+
+## dreaming
+
+```
+I am dreaming in the trees
+of you, of sunny moons and seas,
+of strange lights and fields of jade,
+of quiet dusks without a shade.
+
+I dream of embers and of flames,
+of what through time always remains,
+of silver wings spanning across
+the blue void covered by frost.
+
+my love, asleep beneath the leaves,
+life into the forest breathes.
+I wake it up - it shortly smiles
+and flies towards the heaven's isles.
+
+December 31, 2022
 ```
