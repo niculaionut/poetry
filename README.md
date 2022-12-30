@@ -21,6 +21,7 @@
 1. [cirsium arvense](https://github.com/niculaionut/poetry#cirsium-arvense)
 1. [plecăm](https://github.com/niculaionut/poetry#plecăm)
 1. [odihnă](https://github.com/niculaionut/poetry#odihnă)
+1. [spre orice](https://github.com/niculaionut/poetry#spre-orice)
 
 ## contents
 
@@ -718,6 +719,27 @@ uscându-se ca o frunză verde de cimbru,
 ca și niște struguri albaștri precum timpul.
 
 22 decembrie 2022
+```
+
+## spre orice
+
+```
+nemărginite mări de-acum -
+spre ce mă îndrept pe drum?
+spre vise în uitare prinse?
+spre stele încă neaprinse?
+
+spre verzi păduri de miazănoapte?
+spre scrum de pustietate?
+către aripi de eter
+sau lanțuri de plumb, de fier?
+
+spre orice m-oi îndrepta,
+în inimă te-oi purta.
+la răscruci - inima mea
+pe patru căi te-o căuta.
+
+30 decembrie 2022
 ```
 
 ## look
