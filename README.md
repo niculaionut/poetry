@@ -961,15 +961,15 @@ December 17, 2022
 ## dreaming
 
 ```
-I am dreaming in the trees
-of you, of sunny moons and seas,
-of strange lights and fields of jade,
-of quiet dusks without a shade.
-
 I dream of embers and of flames,
 of what through time always remains,
 of silver wings spanning across
 the blue void covered by frost.
+
+I am dreaming in the trees
+of you, of sunny moons and seas,
+of strange lights and fields of jade,
+of quiet dusks without a shade.
 
 my love, asleep beneath the leaves,
 life into the forest breathes.
