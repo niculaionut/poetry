@@ -22,6 +22,7 @@
 1. [plecăm](https://github.com/niculaionut/poetry#plecăm)
 1. [odihnă](https://github.com/niculaionut/poetry#odihnă)
 1. [spre orice](https://github.com/niculaionut/poetry#spre-orice)
+1. [mările](https://github.com/niculaionut/poetry#mările)
 
 ## contents
 
@@ -741,6 +742,25 @@ la răscruci - inima mea
 pe patru căi te-o căuta.
 
 30 decembrie 2022
+```
+
+## mările
+
+```
+ea râde cu mările în spate,
+cu pescăruși transfigurați în stropi pe ape,
+ea râde sub foșnet de raze turcoaz
+sălășluind acum pe-al ei obraz.
+
+în brațele umbrelor nou-născute
+ea râde lucios și pe tăcute.
+când soarele poposește în zenit
+valurile se năpustesc spre infinit.
+
+ea râde și-n spatele ei - râd și mările de jad,
+râd și demonii din rai, râd și îngerii din iad.
+
+1 ianuarie 2023
 ```
 
 ## look
