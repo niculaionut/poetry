@@ -23,6 +23,7 @@
 1. [odihnă](https://github.com/niculaionut/poetry#odihnă)
 1. [spre orice](https://github.com/niculaionut/poetry#spre-orice)
 1. [mările](https://github.com/niculaionut/poetry#mările)
+1. [mănunchi](https://github.com/niculaionut/poetry#mănunchi)
 
 ## contents
 
@@ -759,6 +760,27 @@ valurile se năpustesc spre infinit.
 
 ea râde și-n spatele ei - râd și mările de jad,
 râd și demonii din rai, râd și îngerii din iad.
+
+1 ianuarie 2023
+```
+
+## mănunchi
+
+```
+și-adun un mănunchi de timp
+cu tot ce am simțit și simt,
+momentele le împletesc,
+clipele le alungesc,
+cu polen le poleiesc,
+cu zăpezi le șlefuiesc,
+apoi -
+ridic cununa pe-o boltă,
+mă iau de mână cu-o deltă,
+mă gândesc la-nmuguriri,
+răsărire, răsăriri,
+nemurire, nemuriri,
+amintiri calde și reci,
+trecătoare și de veci.
 
 1 ianuarie 2023
 ```
