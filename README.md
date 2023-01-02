@@ -1054,8 +1054,8 @@ light my path with words unspoken,
 
 her eyes - above, my soul - below,
 still apart they grow, they grow...
-when my soul and the comets will collide -
-look at the hidden sky in blazes wide.
+when my soul and the comets will collide
+the Earth will erupt in blazes wide.
 
 January 2, 2023
 ```
