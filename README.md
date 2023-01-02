@@ -40,6 +40,7 @@
 1. [blood moon](https://github.com/niculaionut/poetry#blood-moon)
 1. [dreaming](https://github.com/niculaionut/poetry#dreaming)
 1. [one day](https://github.com/niculaionut/poetry#one-day)
+1. [comets](https://github.com/niculaionut/poetry#comets)
 
 ## pe unde ești
 
@@ -1039,6 +1040,22 @@ your golden words, soft and unbroken,
 gates of eternity will open.
 in trenches dark or realms of light
 your image will keep its might.
+
+January 2, 2023
+```
+
+## comets
+
+```
+her eyes - above, two glowing comets,
+drifting through time like lonely prophets,
+warm my way in winters frozen,
+light my path with words unspoken,
+
+her eyes - above, my soul - below,
+still apart they grow, they grow...
+when my soul and the comets will collide -
+look at the hidden sky in blazes wide.
 
 January 2, 2023
 ```
