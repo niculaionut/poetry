@@ -41,6 +41,7 @@
 1. [dreaming](https://github.com/niculaionut/poetry#dreaming)
 1. [one day](https://github.com/niculaionut/poetry#one-day)
 1. [comets](https://github.com/niculaionut/poetry#comets)
+1. [blue and grey](https://github.com/niculaionut/poetry#blue-and-grey)
 
 ## pe unde ești
 
@@ -1056,6 +1057,27 @@ her eyes - above, my soul - below,
 still apart they grow, they grow...
 when my soul and the comets will collide
 the Earth will erupt in blazes wide.
+
+January 2, 2023
+```
+
+## blue and grey
+
+```
+her head is like a shadowed bramble,
+with prickly eyes and hair of amber.
+her hands are like a shrub's embrace,
+she has feet without a trace.
+her soul - I cannot see too deeply
+when she looks at me so steeply.
+I know her, yet she's a stranger -
+not for anything I'd change her.
+her laugh is like a long-lost twin
+of God's golden violin.
+her smile - a hill with bright white flowers
+like the fangs of winters' howls,
+and with each falling milky ray
+the full moon paints her blue and grey.
 
 January 2, 2023
 ```
