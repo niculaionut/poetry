@@ -39,6 +39,7 @@
 1. [my darling from beyond the dunes](https://github.com/niculaionut/poetry#my-darling-from-beyond-the-dunes)
 1. [blood moon](https://github.com/niculaionut/poetry#blood-moon)
 1. [dreaming](https://github.com/niculaionut/poetry#dreaming)
+1. [one day](https://github.com/niculaionut/poetry#one-day)
 
 ## pe unde ești
 
@@ -1019,4 +1020,25 @@ I wake it up - it shortly smiles
 and flies towards the heaven's isles.
 
 December 31, 2022
+```
+
+## one day
+
+```
+one day I will be called to die,
+be it in a blizzard or in a peaceful time.
+will I be in bloom or succumbed to blights?
+will the rains of past pour down like scythes?
+
+perhaps I'll die - a wretch among the wretches -
+my soul shall lie forgotten in time's trenches.
+perhaps I'll die - blown by the wind to realms of spring,
+perhaps my soul will rest, perhaps my soul will sing.
+
+your golden words, soft and unbroken,
+gates of eternity will open.
+in trenches dark or realms of light
+your image will keep its might.
+
+January 2, 2023
 ```
