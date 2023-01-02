@@ -1047,7 +1047,7 @@ January 2, 2023
 ## comets
 
 ```
-her eyes - above, two glowing comets,
+her eyes above - two glowing comets,
 drifting through time like lonely prophets,
 warm my way in winters frozen,
 light my path with words unspoken,
