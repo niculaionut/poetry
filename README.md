@@ -1075,7 +1075,7 @@ not for anything I'd change her.
 her laugh is like a long-lost twin
 of God's golden violin.
 her smile - a hill with bright white flowers
-like the fangs of winters' howls,
+like the fangs of winter's howls,
 and with each falling milky ray
 the full moon paints her blue and grey.
 
