@@ -24,6 +24,7 @@
 1. [spre orice](https://github.com/niculaionut/poetry#spre-orice)
 1. [mările](https://github.com/niculaionut/poetry#mările)
 1. [mănunchi](https://github.com/niculaionut/poetry#mănunchi)
+1. [pe peron](https://github.com/niculaionut/poetry#pe-peron)
 
 ## contents
 
@@ -786,6 +787,42 @@ amintiri calde și reci,
 trecătoare și de veci.
 
 1 ianuarie 2023
+```
+
+## pe peron
+
+```
+e-o dimineață foarte orbitoare în acestă gară
+și te iubesc c-o inimă umană,
+o inimă prea mică și sărmană.
+prea mare ți-e frumusețea, uneori,
+și inima-mi se zbate ca niște aripi de cocori
+ce nu se pot 'nălța suficient spre zare,
+să fie contopiți și ei în soare -
+zadarnic cad pe pământ
+cu aripile rupte-ntr-un colț de mormânt.
+
+aș vrea o inimă ce poate să zboare,
+din care curg fluvii de foc - șiroaie.
+cu ea te-aș putea privi la nesfârșit,
+te-aș putea ține-n palmă
+ca pe-un metal încins, apoi înăbușit.
+
+aș vrea o inimă-nghețată, lunară,
+o inimă de mercur, o inimă de-aramă.
+și una din fire de-argint ce nu se rup,
+o inimă din colți de lup.
+o inimă din codri vechi,
+din ochi dintr-un apus priveghi.
+
+............................................................
+
+mi-aștept cu nerăbdare ultimul tren pe peron,
+să-mi părăsesc definitiv inima de om,
+s-o las acum în efemeritate,
+pornind spre stația „Eternitate”.
+
+6 ianuarie 2023
 ```
 
 ## look
