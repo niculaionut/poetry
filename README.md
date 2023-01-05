@@ -792,7 +792,7 @@ trecătoare și de veci.
 ## pe peron
 
 ```
-e-o dimineață foarte orbitoare în acestă gară
+e-o dimineață foarte orbitoare în această gară
 și te iubesc c-o inimă umană,
 o inimă prea mică și sărmană.
 prea mare ți-e frumusețea, uneori,
