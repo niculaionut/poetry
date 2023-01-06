@@ -24,7 +24,7 @@
 1. [spre orice](https://github.com/niculaionut/poetry#spre-orice)
 1. [mările](https://github.com/niculaionut/poetry#mările)
 1. [mănunchi](https://github.com/niculaionut/poetry#mănunchi)
-1. [pe peron](https://github.com/niculaionut/poetry#pe-peron)
+1. [peron](https://github.com/niculaionut/poetry#peron)
 
 ## contents
 
@@ -789,7 +789,7 @@ trecătoare și de veci.
 1 ianuarie 2023
 ```
 
-## pe peron
+## peron
 
 ```
 e-o dimineață foarte orbitoare în această gară
