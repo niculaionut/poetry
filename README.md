@@ -838,7 +838,7 @@ născută din nopți fără vreo stea,
 înmugurind din vulcani,
 plutind pe mâini de uragani,
 soră cu luna,
-crescând întruna,
+luminând întruna,
 soră cu oceanele,
 potop peste pleoapele
 lumii de jos, lumii de sus,
