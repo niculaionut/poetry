@@ -825,6 +825,50 @@ pornind spre stația „Eternitate”.
 6 ianuarie 2023
 ```
 
+## floarea mea
+
+```
+te-aș iubi de-acum, pe veci,
+te-aș iubi cu ochi prea reci,
+te-aș iubi îmbătrânind,
+te-aș iubi întinerind,
+te-aș iubi, iubirea mea,
+născută din nopți fără vreo stea,
+înmugurind din vulcani,
+plutind pe mâini de uragani,
+soră cu luna,
+crescând întruna,
+soră cu oceanele,
+potop peste pleoapele
+lumii de jos, lumii de sus,
+de răsărit și de apus.
+
+iubirea mea e-ndepărtare,
+iarna pe crivăț călare,
+o veni cu verile,
+înapoi cu serile,
+poate și cu stelele...
+de s-o-ntoarce draga mea,
+am o floare pentru ea -
+din lacrimi de prun, de fag,
+culeasă din ținutul alb,
+strălucind - orbitor ca zările
+când negura piere sub sabie.
+te așteaptă să o porți
+când zbori pe aripi de sorți.
+
+............................................................
+
+și-mbătrânind, întinerind,
+cuvinte încă mai prind,
+le-ntemnițez - negre pe pagini,
+osândite în imagini -
+despre cine? despre ea
+arzând pe cer cu floarea mea.
+
+10 ianuarie 2023
+```
+
 ## look
 
 ```
