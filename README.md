@@ -664,9 +664,9 @@ căci negreșit, dragă, voi fi acolo să-i culeg.
 
 ```
 norii mei, ca niciodată,
-zboară pe zarea înaltă -
-între note încă se aud
-silabele tale de un verde crud.
+zboară pe zarea înaltă
+cu aripi de-un verde crud,
+cu vorbe ce nu se-aud.
 
 azi coboară, mâine urcă,
 norii mei mi se bifurcă -
