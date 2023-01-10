@@ -25,6 +25,7 @@
 1. [mările](https://github.com/niculaionut/poetry#mările)
 1. [mănunchi](https://github.com/niculaionut/poetry#mănunchi)
 1. [peron](https://github.com/niculaionut/poetry#peron)
+1. [floarea mea](https://github.com/niculaionut/poetry#floarea-mea)
 
 ## contents
 
